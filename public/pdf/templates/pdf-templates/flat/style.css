@@ -1,0 +1,67 @@
+.pdf-ticket-body {
+    background: #fff;
+    padding: 10px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 680px;
+}
+
+.pdf-header {
+    text-align: center;
+}
+
+.pdf-header h4,
+.pdf-header h5 {
+    padding: 0;
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+
+
+
+    .mep-reg-user-details {
+    width: 400px;
+    margin: 0 auto;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    background: #fff;
+    border-right: 1px solid #ddd;
+}
+
+.mep-reg-user-details table tr td {
+    border-color: #ddd;
+        padding: 0px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.mep-reg-user-details table tr td img {
+    border-radius: 100%;
+    margin: 20px 0;
+    width: 100px;
+    height: auto;
+}
+
+.mep-reg-user-details table tr td h2 {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.mep-reg-user-details table tr td h3 {
+    font-size: 14px;
+    margin: 10px 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.mep-reg-user-details table tr td h4 {
+    font-size: 16px;
+}
+.mep-reg-user-details table {
+    width: 100%;
+}
+.mep-reg-user-details h4, .mep-reg-user-details h2 {
+    padding: 0;
+    margin: 0;
+}
